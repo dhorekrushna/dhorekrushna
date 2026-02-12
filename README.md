@@ -15,6 +15,12 @@
  
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+  ## 🎯 Current Focus
+- 📊 Advanced Data Analytics & Dashboarding  
+- 🤖 Machine Learning Model Building  
+- 🚀 API Development & Deployment  
+- ☁️ Cloud-Based Solutions  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhorekrushna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhorekrushna&theme=dark&hide_border=false)<br/>
@@ -22,11 +28,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhorekrushna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
