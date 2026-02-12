@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Krushna Dhore</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights+🚀" />
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.krushna__kd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-dhore-35b191350/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhorekrushna683@gmail.com)
