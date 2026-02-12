@@ -23,6 +23,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhorekrushna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
