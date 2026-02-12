@@ -1,3 +1,17 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Krushna%20Dhore&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5D4&size=25&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights+📊;Building+Smart+Solutions+🚀" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&section=header"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.krushna__kd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-dhore-35b191350/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhorekrushna683@gmail.com)
