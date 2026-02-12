@@ -1,11 +1,9 @@
-<!-- Animated Name & Typing Effect -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Krushna%20Dhore&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
+    Krushna Dhore
+  </span>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5D4&size=25&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Excel"/>
-</p>
 
 
 ## 🌐 Socials:
